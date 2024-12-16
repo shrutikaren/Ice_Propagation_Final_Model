@@ -23,8 +23,11 @@ If you want to run simulations, please utilize either the parallel.sh or the sim
 To run the simulations:
 1. ./parallel.sh
 
-Inside PhysiCell, this is the expected navigation of the bash scripts and the directory files that will be created from those bash scripts: 
+Inside PhysiCell, this is the expected navigation of the bash scripts and the directory files that will be created from those bash scripts. This is how Fatima's code simulation was done: 
 ![Project](one.png)
+
+This is how my updated code simulation was done: 
+![Project](two.png)
 
 Notice how, it produces multiple output files at once now and you don't need to worry about memorizing multiple lines of build since they are all done with just one line of code and the simulations are automated with your bash file. 
 
